@@ -1,0 +1,27 @@
+{
+  "name": "purdue",
+  "version": "1.0.0",
+  "description": "Purdue theme json file for compiling theme elements and code",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbosma@purdue.edu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-kss": "0.0.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-shell": "^0.6.5",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-watch": "^5.0.0",
+    "kss": "^3.0.0-beta.20",
+    "michelangelo": "^0.7.0",
+    "sassdoc": "^2.5.0",
+    "sc5-styleguide": "^2.0.4"
+  },
+  "dependencies": {}
+}
